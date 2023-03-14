@@ -1,4 +1,4 @@
-1) # Veri Tipleri:
+# 1) Veri Tipleri:
   ## Numeric:
     - integer: Tam Sayılar örneğin -1,-2,-3,1,2,20,12000, -5400 
     - float: Ondalıklı sayılar örneğin 0.75, 1.78, 18.7 
@@ -23,11 +23,11 @@
 
 ```
 
-2) # Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+### 2) *Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.*
     - integer : ilerleme değerleri, kurs ücretleri 
     - string: kurslar, eğitmenler, sekmeler
  
-3) # Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
+### 3) *Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.*
 
     - giriş bölümü
 ```
